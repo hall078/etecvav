@@ -1,7 +1,5 @@
-#include <iostream>
 
-#include <string>
-
+```
 int main() {
     
     std::string nome;
@@ -28,3 +26,5 @@ int main() {
 
     return 0;
 }
+
+```

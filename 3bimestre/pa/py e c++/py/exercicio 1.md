@@ -1,3 +1,5 @@
+```
+
 nome = input("nome: ")
 
 idade = input("idade: ")
@@ -5,4 +7,5 @@ idade = input("idade: ")
 print ("ola", nome )
 
 print ("sua idade é", idade)
-    
+
+```    

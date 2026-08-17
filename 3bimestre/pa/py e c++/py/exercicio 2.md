@@ -1,3 +1,5 @@
+```
+
 valor1 =  int(input  ("digite um valor:"))
 
 valor2 =  int(input("digite o segundo valor:"))
@@ -17,3 +19,4 @@ print (multiplicao)
 
 print (divisao)
 
+```
